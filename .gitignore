@@ -1,0 +1,9 @@
+.idea
+/currency
+/logs
+/price
+/processed
+/resources
+/vendor
+
+/src/Third.php
